@@ -1,4 +1,3 @@
-# Injury_Prediction
 # Player Injury & Rehabilitation Analysis
 
 ## Overview
