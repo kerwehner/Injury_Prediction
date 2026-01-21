@@ -6,6 +6,7 @@ This project analyzes player injuries, rehabilitation outcomes, and biomechanica
 The goal is to identify trends in injury frequency, recovery efficiency, and physical attributes that may influence rehabilitation outcomes, providing actionable insights for coaches, trainers, and performance analysts.
 
 Takeaways: Players with high jump heights and better knee angles generally recover faster from lower-limb injuries. Reaction time and speed show weak correlations with eachother, suggesting indepedent physical traits.
+
 ---
 
 ## Key Analyses
